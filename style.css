@@ -33,7 +33,7 @@ aside .logo {
 
 header {
     height: 100px;
-    background-color:antiquewhite;
+    background-color: antiquewhite;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -55,7 +55,7 @@ header {
 }
 
 main {
-    background-color:burlywood;
+    background-color: burlywood;
     width: 500px;
     height: 250px;
 
@@ -90,7 +90,7 @@ button {
     background-color: gray;
 }
 
-@media screen  and (max-width:382px) {
+@media screen and (max-width:382px) {
     aside {
         display: none;
     }
